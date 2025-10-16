@@ -1,4 +1,5 @@
 {
+  "_comment": "Single sample test - predicts one taxi fare",
   "input_data": {
     "columns": [
       "pickup_datetime",
@@ -22,8 +23,8 @@
   }
 }
 
-
 {
+  "_comment": "Multiple samples test - predicts three taxi fares at once",
   "input_data": {
     "columns": [
       "pickup_datetime",
