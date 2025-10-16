@@ -1,0 +1,23 @@
+{
+  "input_data": {
+    "columns": [
+      "pickup_datetime",
+      "pickup_longitude",
+      "pickup_latitude",
+      "dropoff_longitude",
+      "dropoff_latitude",
+      "passenger_count"
+    ],
+    "index": [0],
+    "data": [
+      [
+        "2011-01-24 18:05:00 UTC",
+        -73.983768,
+        40.738037,
+        -73.982185,
+        40.757298,
+        1
+      ]
+    ]
+  }
+}
